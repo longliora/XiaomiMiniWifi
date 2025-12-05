@@ -1,6 +1,7 @@
 # openwrt
 alll in one for xiaomi wifi mini
-- breedweb: https://breed.hackpascal.net/breed-mt7620-xiaomi-mini.bin
+- breedweb: + https://breed.hackpascal.net/breed-mt7620-xiaomi-mini.bin
+            + https://breed.hackpascal.net/
 - Padavan-cn: http://opt.cn2qq.com/padavan/
 - padavan: https://github.com/hanwckf/rt-n56u/releases/
 - openwrt: 24.10.4
